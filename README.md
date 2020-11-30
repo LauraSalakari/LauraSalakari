@@ -31,7 +31,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/laura-salakari/)!
 
 ### I'm currently learning:
   * Go
-  -> It's not much yet, but it's a [start!](https://github.com/LauraSalakari/go-card-deck)
+  * Docker
   
 ### Check out my past projects!
 * [Squad Up](https://squad-u-p.herokuapp.com/)
