@@ -1,7 +1,7 @@
 ## Hiya! 👋
 
 <p>
-<b>I'm Laura, an aspiring backend developer with the training of a fullstack engineer!</b>
+<b>I'm Laura, an aspiring software developer with the training of a fullstack engineer!</b>
 
 ```Feel free to poke around my repos c:```
 
