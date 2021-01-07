@@ -32,6 +32,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/laura-salakari/)!
 ### I'm currently learning:
   * Go
   * Docker
+  * AWS
   
 ### Check out my past projects!
 * [Squad Up](https://squad-u-p.herokuapp.com/)
