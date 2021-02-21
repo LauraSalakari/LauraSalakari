@@ -30,6 +30,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/laura-salakari/)!
  </p>
 
 ### I'm currently learning:
+  * Java
   * Go
   * Docker
   * AWS
