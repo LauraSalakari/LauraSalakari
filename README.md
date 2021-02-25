@@ -26,7 +26,6 @@ Find me on [LinkedIn](https://www.linkedin.com/in/laura-salakari/)!
   <img src="https://img.shields.io/badge/Software-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code"/>
   <img src="https://img.shields.io/badge/Software-Unity-000000?style=for-the-badge&logo=unity"/>
   <img src="https://img.shields.io/badge/Deploy-Heroku-430098?style=for-the-badge&logo=heroku"/>
-    <img src="https://img.shields.io/badge/Code-Golang-00ADD8?style=for-the-badge&logo=go"/>
  </p>
 
 ### I'm currently learning:
